@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://himalayamusings.com/zh/</loc>
+    <loc>https://himslayamusings.github.io/himslayamusings/zh/</loc>
     <lastmod>2024-08-13T17:32:40+08:00</lastmod>
   </url><url>
-    <loc>https://himalayamusings.com/</loc>
+    <loc>https://himslayamusings.github.io/himslayamusings/</loc>
     <lastmod>2024-08-13T15:25:36+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://himalayamusings.com/zh/"
+                href="https://himslayamusings.github.io/himslayamusings/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://himalayamusings.com/"
+                href="https://himslayamusings.github.io/himslayamusings/"
                 />
   </url><url>
-    <loc>https://himalayamusings.com/about/about/</loc>
+    <loc>https://himslayamusings.github.io/himslayamusings/about/about/</loc>
     <lastmod>2024-08-13T11:56:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://himalayamusings.com/zh/about/about/"
+                href="https://himslayamusings.github.io/himslayamusings/zh/about/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://himalayamusings.com/about/about/"
+                href="https://himslayamusings.github.io/himslayamusings/about/about/"
                 />
   </url><url>
-    <loc>https://himalayamusings.com/about/</loc>
+    <loc>https://himslayamusings.github.io/himslayamusings/about/</loc>
     <lastmod>2024-08-13T11:56:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://himalayamusings.com/zh/about/"
+                href="https://himslayamusings.github.io/himslayamusings/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://himalayamusings.com/about/"
+                href="https://himslayamusings.github.io/himslayamusings/about/"
                 />
   </url><url>
-    <loc>https://himalayamusings.com/posts/</loc>
+    <loc>https://himslayamusings.github.io/himslayamusings/posts/</loc>
     <lastmod>2024-08-12T15:03:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://himalayamusings.com/zh/posts/"
+                href="https://himslayamusings.github.io/himslayamusings/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://himalayamusings.com/posts/"
+                href="https://himslayamusings.github.io/himslayamusings/posts/"
                 />
   </url><url>
-    <loc>https://himalayamusings.com/posts/test/</loc>
+    <loc>https://himslayamusings.github.io/himslayamusings/posts/test/</loc>
     <lastmod>2024-08-12T15:03:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://himalayamusings.com/zh/posts/test/"
+                href="https://himslayamusings.github.io/himslayamusings/zh/posts/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://himalayamusings.com/posts/test/"
+                href="https://himslayamusings.github.io/himslayamusings/posts/test/"
                 />
   </url><url>
-    <loc>https://himalayamusings.com/posts/my-first-post/</loc>
+    <loc>https://himslayamusings.github.io/himslayamusings/posts/my-first-post/</loc>
     <lastmod>2024-08-09T14:46:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://himalayamusings.com/zh/posts/my-first-post/"
+                href="https://himslayamusings.github.io/himslayamusings/zh/posts/my-first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://himalayamusings.com/posts/my-first-post/"
+                href="https://himslayamusings.github.io/himslayamusings/posts/my-first-post/"
                 />
   </url><url>
-    <loc>https://himalayamusings.com/categories/</loc>
+    <loc>https://himslayamusings.github.io/himslayamusings/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://himalayamusings.com/zh/categories/"
+                href="https://himslayamusings.github.io/himslayamusings/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://himalayamusings.com/categories/"
+                href="https://himslayamusings.github.io/himslayamusings/categories/"
                 />
   </url><url>
-    <loc>https://himalayamusings.com/tags/</loc>
+    <loc>https://himslayamusings.github.io/himslayamusings/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://himalayamusings.com/zh/tags/"
+                href="https://himslayamusings.github.io/himslayamusings/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://himalayamusings.com/tags/"
+                href="https://himslayamusings.github.io/himslayamusings/tags/"
                 />
   </url>
 </urlset>
