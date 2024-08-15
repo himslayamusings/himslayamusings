@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Himalaya Musings</title><link>https://www.himalayamusings.com/posts/</link><description>Recent content in Posts on Himalaya Musings</description><generator>Hugo -- 0.131.0</generator><language>en</language><lastBuildDate>Mon, 12 Aug 2024 15:03:40 +0800</lastBuildDate><atom:link href="https://www.himalayamusings.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://www.himalayamusings.com/posts/test/</link><pubDate>Mon, 12 Aug 2024 15:03:40 +0800</pubDate><guid>https://www.himalayamusings.com/posts/test/</guid><description>我的第一篇 Markdown 文档 简介 Markdown 是一种轻量级的标记语言，易于阅读，也 易于编写。它广泛应用于各种文档写作、博客平台、笔记工具等。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Himalaya Musings</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Himalaya Musings</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Aug 2024 15:03:40 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Mon, 12 Aug 2024 15:03:40 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>我的第一篇 Markdown 文档 简介 Markdown 是一种轻量级的标记语言，易于阅读，也 易于编写。它广泛应用于各种文档写作、博客平台、笔记工具等。
 主要特性 简单易学 支持多种格式 跨平台兼容 4. 工具和资源 Markdown 编辑器 Typora：所见即所得的 Markdown 编辑器，实时预览。 Visual Studio Code：强大的代码编辑器，支持 Markdown 语法高亮和预览。 Obsidian：适合知识管理的 Markdown 编辑器。 在线 Markdown 编辑器 Dillinger：Dillinger 是一个在线 Markdown 编辑器，可以实时预览和导出文档。 StackEdit：StackEdit 是另一个功能强大的在线 Markdown 编辑器，支持多种导出格式。 总结 Markdown 是一种简单、直观的文本格式化工具，适合用于文档编写、博客文章、笔记记录等多种场景。通过掌握上述语法和技巧，你可以轻松地编写出结构清晰、格式美观的文档。
-如果你有任何进一步的问题，或者需要更多关于 Markdown 的帮助，请随时告诉我！</description></item><item><title>My First Post</title><link>https://www.himalayamusings.com/posts/my-first-post/</link><pubDate>Fri, 09 Aug 2024 14:46:58 +0800</pubDate><guid>https://www.himalayamusings.com/posts/my-first-post/</guid><description>This is my first post on my new Hugo site!
-test test test</description></item></channel></rss>
+如果你有任何进一步的问题，或者需要更多关于 Markdown 的帮助，请随时告诉我！</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 09 Aug 2024 14:46:58 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>This is my first post on my new Hugo site!
+test test test</description>
+    </item>
+  </channel>
+</rss>
