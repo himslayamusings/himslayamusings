@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abouts on Himalaya Musings</title><link>https://www.himalayamusings.com/about/</link><description>Recent content in Abouts on Himalaya Musings</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 13 Aug 2024 11:56:32 +0800</lastBuildDate><atom:link href="https://www.himalayamusings.com/about/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://www.himalayamusings.com/about/about/</link><pubDate>Tue, 13 Aug 2024 11:56:32 +0800</pubDate><guid>https://www.himalayamusings.com/about/about/</guid><description>这是我的个人博客，我喜欢分享技术文章和生活点滴。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Himalaya Musings</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Himalaya Musings</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Aug 2024 11:56:32 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Tue, 13 Aug 2024 11:56:32 +0800</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>这是我的个人博客，我喜欢分享技术文章和生活点滴。</description>
+    </item>
+  </channel>
+</rss>
