@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+            
+                
+            
+                
+                    <link href="http://localhost:1313/zh/rss.xml" hreflang="zh" rel="alternate" type="application/rss+xml"/>
+                
+            
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en</language>
+        
+
+        
+            <lastBuildDate>2024-08-12 15:03:40 +0800 CST</lastBuildDate>
+        
+
+        <link>http://localhost:1313/</link>
+
+        
+
+        <title>Himalaya Musings</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<h1 id="我的第一篇-markdown-文档">我的第一篇 Markdown 文档</h1>
+<h2 id="简介">简介</h2>
+<p>Markdown 是一种轻量级的标记语言，<strong>易于阅读</strong>，也 <strong>易于编写</strong>。它广泛应用于各种文档写作、博客平台、笔记工具等。</p>
+<h2 id="主要特性">主要特性</h2>
+<ol>
+<li>简单易学</li>
+<li>支持多种格式</li>
+<li>跨平台兼容</li>
+</ol>
+<h3 id="4-工具和资源">4. 工具和资源</h3>
+<h4 id="markdown-编辑器">Markdown 编辑器</h4>
+<ul>
+<li><strong>Typora</strong>：所见即所得的 Markdown 编辑器，实时预览。</li>
+<li><strong>Visual Studio Code</strong>：强大的代码编辑器，支持 Markdown 语法高亮和预览。</li>
+<li><strong>Obsidian</strong>：适合知识管理的 Markdown 编辑器。</li>
+</ul>
+<h4 id="在线-markdown-编辑器">在线 Markdown 编辑器</h4>
+<ul>
+<li><strong>Dillinger</strong>：<a href="https://dillinger.io/">Dillinger</a> 是一个在线 Markdown 编辑器，可以实时预览和导出文档。</li>
+<li><strong>StackEdit</strong>：<a href="https://stackedit.io/">StackEdit</a> 是另一个功能强大的在线 Markdown 编辑器，支持多种导出格式。</li>
+</ul>
+<h3 id="总结">总结</h3>
+<p>Markdown 是一种简单、直观的文本格式化工具，适合用于文档编写、博客文章、笔记记录等多种场景。通过掌握上述语法和技巧，你可以轻松地编写出结构清晰、格式美观的文档。</p>
+<p>如果你有任何进一步的问题，或者需要更多关于 Markdown 的帮助，请随时告诉我！</p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-08-12:/posts/test/</guid>
+
+                
+                    <link>http://localhost:1313/posts/test/</link>
+                
+
+                
+                    <pubDate>Mon, 12 Aug 2024 15:03:40 CST</pubDate>
+                
+
+                
+                    <title>Test</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p>This is my first post on my new Hugo site!</p>
+<p>test    test    test</p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-08-09:/posts/my-first-post/</guid>
+
+                
+                    <link>http://localhost:1313/posts/my-first-post/</link>
+                
+
+                
+                    <pubDate>Fri, 09 Aug 2024 14:46:58 CST</pubDate>
+                
+
+                
+                    <title>My First Post</title>
+                
+            </item>
+        
+    </channel>
+</rss>
