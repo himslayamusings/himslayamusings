@@ -349,9 +349,9 @@
     
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:1313/posts/markdown-%E6%96%87%E6%A1%A3/</link>
       <pubDate>Mon, 12 Aug 2024 15:03:40 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:1313/posts/markdown-%E6%96%87%E6%A1%A3/</guid>
       <description>&lt;h1 id=&#34;我的第一篇-markdown-文档&#34;&gt;我的第一篇 Markdown 文档&lt;/h1&gt;
 &lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;
 &lt;p&gt;Markdown 是一种轻量级的标记语言，&lt;strong&gt;易于阅读&lt;/strong&gt;，也 &lt;strong&gt;易于编写&lt;/strong&gt;。它广泛应用于各种文档写作、博客平台、笔记工具等。&lt;/p&gt;
@@ -361,7 +361,70 @@
 &lt;li&gt;支持多种格式&lt;/li&gt;
 &lt;li&gt;跨平台兼容&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;4-工具和资源&#34;&gt;4. 工具和资源&lt;/h3&gt;
+&lt;p&gt;在 Hugo 中，Markdown 文件（特别是 &lt;code&gt;.md&lt;/code&gt; 文件）的头部配置部分被称为 Front Matter。Front Matter 使用 YAML、TOML 或 JSON 格式来定义文章的元数据。以下是一些常见的 Front Matter 参数：&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;文章标题&amp;rdquo;
+date: 2024-08-20
+draft: false
+summary: &amp;ldquo;这是文章的摘要。&amp;rdquo;
+author: &amp;ldquo;作者名字&amp;rdquo;
+type: &amp;ldquo;post&amp;rdquo;
+slug: &amp;ldquo;custom-url-slug&amp;rdquo;  # 自定义 URL 的最后一部分
+categories: [&amp;ldquo;分类1&amp;rdquo;, &amp;ldquo;分类2&amp;rdquo;]
+tags: [&amp;ldquo;标签1&amp;rdquo;, &amp;ldquo;标签2&amp;rdquo;]
+keywords: [&amp;ldquo;关键字1&amp;rdquo;, &amp;ldquo;关键字2&amp;rdquo;]
+description: &amp;ldquo;搜索引擎优化(SEO)的描述&amp;rdquo;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;seo-相关&#34;&gt;SEO 相关&lt;/h2&gt;
+&lt;p&gt;title: &amp;ldquo;SEO 友好的文章标题&amp;rdquo;
+description: &amp;ldquo;适合搜索引擎的描述&amp;rdquo;
+keywords: [&amp;ldquo;SEO关键字1&amp;rdquo;, &amp;ldquo;SEO关键字2&amp;rdquo;]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;布局和显示相关&#34;&gt;布局和显示相关&lt;/h2&gt;
+&lt;p&gt;layout: &amp;ldquo;custom-layout&amp;rdquo;  # 使用自定义布局
+aliases: [&amp;quot;/old-url/&amp;quot;]  # 为旧 URL 添加重定向
+showDate: true  # 是否显示发布日期
+hideComments: true  # 是否隐藏评论
+disableShare: true  # 是否禁用分享按钮&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;文档内容和结构&#34;&gt;文档内容和结构&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;series: [&amp;ldquo;系列文章1&amp;rdquo;, &amp;ldquo;系列文章2&amp;rdquo;]  # 将文章归入系列
+weight: 1  # 用于排序的权重值，较小的值会显示在较前面&lt;/p&gt;
+&lt;h2 id=&#34;文档图片和媒体&#34;&gt;文档图片和媒体&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;featured_image: &amp;ldquo;images/featured.jpg&amp;rdquo;  # 特色图片
+thumbnail: &amp;ldquo;images/thumb.jpg&amp;rdquo;  # 缩略图
+cover: &amp;ldquo;images/cover.jpg&amp;rdquo;  # 封面图片
+images:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;images/img1.jpg&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;images/img2.jpg&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;自定义参数&#34;&gt;自定义参数&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;customparam-自定义参数值---你可以自定义任何参数并在模板中使用它&#34;&gt;customParam: &amp;ldquo;自定义参数值&amp;rdquo;  # 你可以自定义任何参数，并在模板中使用它&lt;/h2&gt;
+&lt;h2 id=&#34;多语言支持&#34;&gt;多语言支持&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;文章标题&amp;rdquo;
+date: 2024-08-20
+draft: false&lt;/p&gt;
+&lt;h2 id=&#34;description-中文描述&#34;&gt;[languages]
+[languages.en]
+title: &amp;ldquo;English Title&amp;rdquo;
+description: &amp;ldquo;Description in English&amp;rdquo;
+[languages.zh]
+title: &amp;ldquo;中文标题&amp;rdquo;
+description: &amp;ldquo;中文描述&amp;rdquo;&lt;/h2&gt;
+&lt;h2 id=&#34;其他常见参数&#34;&gt;其他常见参数&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;readingTime: true  # 是否显示阅读时间
+toc: true  # 是否显示目录
+lastmod: 2024-08-21  # 最后修改日期&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;这些参数可以在不同主题中有不同的使用方法，根据你使用的主题，有些参数可能会有特定的用途或表现形式。你可以根据需要在 Front Matter 中添加或删除参数，以控制文章的显示和功能。&lt;/p&gt;
+&lt;h2 id=&#34;工具和资源&#34;&gt;工具和资源&lt;/h2&gt;
 &lt;h4 id=&#34;markdown-编辑器&#34;&gt;Markdown 编辑器&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Typora&lt;/strong&gt;：所见即所得的 Markdown 编辑器，实时预览。&lt;/li&gt;
@@ -375,7 +438,6 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;总结&#34;&gt;总结&lt;/h3&gt;
 &lt;p&gt;Markdown 是一种简单、直观的文本格式化工具，适合用于文档编写、博客文章、笔记记录等多种场景。通过掌握上述语法和技巧，你可以轻松地编写出结构清晰、格式美观的文档。&lt;/p&gt;
-&lt;p&gt;如果你有任何进一步的问题，或者需要更多关于 Markdown 的帮助，请随时告诉我！&lt;/p&gt;
 </description>
     </item>
     
